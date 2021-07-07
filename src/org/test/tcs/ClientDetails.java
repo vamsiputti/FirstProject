@@ -23,7 +23,7 @@ public static void main(String[] args) {
 	e.emplId();
 	e.empName();
 	e.emplId();
-	e.empName();
+	c.compName();
 	
 	
 }
