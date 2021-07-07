@@ -24,8 +24,9 @@ public static void main(String[] args) {
 	e.empName();
 	e.emplId();
 	c.compName();
-	
-	
+	e.emplId();
+
+
 }
 
 }
