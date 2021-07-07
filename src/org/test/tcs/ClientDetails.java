@@ -24,6 +24,11 @@ public static void main(String[] args) {
 	e.empName();
 	e.emplId();
 	e.empName();
+<<<<<<< HEAD
+=======
+	
+	
+>>>>>>> 4cc356341435e93c77fc98800356ab775cb8baac
 }
 
 }
